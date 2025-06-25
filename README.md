@@ -7,3 +7,14 @@ I have learnt quite a number of things ranging from Excel,SQL,Portfolio building
 
 ### Project Overview
 This Data Analysis project aims to generate insight into sales performance of the E-commerce project over the past project over the past years. By analysing the various poarameters in the data received we seek to gather enough insight to make reasonable decisions whivh then enables us to tell compelling stories around our data from the insight gotten and to know the best perfiramnce from oue data 
+
+### Data Sources
+The source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from open source online such as kaggle or FRED or any othe data repository site
+
+### Tools Used 
+- Ms Excel for Data Cleaning [Download Here](http.//www.mircosoft.com)
+     - For Data Collection
+     - For Data Cleaning
+- SQL Server (for Quering and Analysis)
+- Power BI ( for creating a report)
+- Ms Power point (for presentation)
